@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chip8", "Chip8\Chip8.csproj", "{24FF8F3E-1A51-40CF-B811-C13399F70D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FF8F3E-1A51-40CF-B811-C13399F70D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FF8F3E-1A51-40CF-B811-C13399F70D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FF8F3E-1A51-40CF-B811-C13399F70D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FF8F3E-1A51-40CF-B811-C13399F70D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDEA522-868D-44DF-8692-98EDE70E9D52}
+	EndGlobalSection
+EndGlobal
